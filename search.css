@@ -1,0 +1,40 @@
+
+.search
+{
+	height: 100vh;
+	float:right;
+	font-family: sans-serif;
+	display: flex;
+}
+
+.search-field
+{
+	height: 10px;
+	padding: 10px;
+	width: 500px;
+	border: none;
+	border-radius: 25px;
+	outline: none;
+}
+
+.search-button
+{
+	height: 30px;
+	width: 150px;
+	background:#85C1E9;
+	border-radius: none;
+	color: #000;
+	border-radius: 25px;
+}
+
+.search-button:hover
+{
+	background:#34495E;
+	cursor: pointer;
+}
+
+.form-box
+{
+	background:rgba(0,0,0,0.5);
+	padding: 30px;
+}
